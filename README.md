@@ -2,10 +2,10 @@
 
 I am only human and noob
 
-🔫 Coder Fighter
+# 🔫 Coder Fighter
 
-🔴 Cyber security
+# 🔴 Cyber security
 
-👨🏻‍💻 Pentesting tools
+# 👨🏻‍💻 Pentesting tools
 
-📱 Termux Tools
+# 📱 Termux Tools
